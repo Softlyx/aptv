@@ -72,7 +72,7 @@ async function loadKuwoPlaylistDetail(id) {
 
 const appConfig = {
   "ver": 1,
-  "name": "LXFM",
+  "name": "music",
   "message": "",
   "warning": "情不知所起 一往而深 🎵 恨不知所终 一笑而泯",
   "desc": "",

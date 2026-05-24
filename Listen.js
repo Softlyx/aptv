@@ -1,5 +1,6 @@
+//  原链接https://gist.githubusercontent.com/occupy-pluto/14f766e8cfd32cfcf55eced8c28d2695/raw/lxfm.js
 /*!
- * @name lxfm
+ * @name Softly
  * @description 
  * @version v1.0.0
  * @author kobe
@@ -72,7 +73,7 @@ async function loadKuwoPlaylistDetail(id) {
 
 const appConfig = {
   "ver": 1,
-  "name": "music",
+  "name": "Softly",
   "message": "",
   "warning": "情不知所起 一往而深 🎵 恨不知所终 一笑而泯",
   "desc": "",

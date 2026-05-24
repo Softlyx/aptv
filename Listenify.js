@@ -1,5 +1,5 @@
 /*!
- * @name lxfm
+ * @name music
  * @description 
  * @version v1.0.0
  * @author kobe
